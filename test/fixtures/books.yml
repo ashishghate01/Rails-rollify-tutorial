@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  forum: one
+  name: MyString
+  retail_price: 1.5
+
+two:
+  forum: two
+  name: MyString
+  retail_price: 1.5
